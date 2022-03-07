@@ -357,3 +357,7 @@ body {
         font-size: 12px;
     }
 }
+
+.custom {
+    width: 250px !important;
+}
